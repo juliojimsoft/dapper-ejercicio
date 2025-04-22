@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julio Ji\\Desktop\\dapper-ejercicio\\ejercicio dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E607FD76-BEF0-4FD9-86EC-28D15DD25508}|ejercicio dapper\\ejercicio dapper.csproj|c:\\users\\julio ji\\desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E607FD76-BEF0-4FD9-86EC-28D15DD25508}|ejercicio dapper\\ejercicio dapper.csproj|solutionrelative:ejercicio dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E607FD76-BEF0-4FD9-86EC-28D15DD25508}|ejercicio dapper\\ejercicio dapper.csproj|c:\\users\\julio ji\\desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\data\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E607FD76-BEF0-4FD9-86EC-28D15DD25508}|ejercicio dapper\\ejercicio dapper.csproj|solutionrelative:ejercicio dapper\\data\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Julio Ji\\Desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\appsettings.json",
+              "RelativeDocumentMoniker": "ejercicio dapper\\appsettings.json",
+              "ToolTip": "C:\\Users\\Julio Ji\\Desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\appsettings.json",
+              "RelativeToolTip": "ejercicio dapper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T00:29:45.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Julio Ji\\Desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\Data\\DTO\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "ejercicio dapper\\Data\\DTO\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\Julio Ji\\Desktop\\dapper-ejercicio\\ejercicio dapper\\ejercicio dapper\\Data\\DTO\\ProductoDto.cs",
+              "RelativeToolTip": "ejercicio dapper\\Data\\DTO\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:11:02.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
