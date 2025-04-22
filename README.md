@@ -36,7 +36,7 @@ Modifica tu archivo appsettings.json con o configurar variables de entorno:
   }
 }
 
-##Reconstruir la base de datos:
+##Reconstruir la base de datos con Entity Framework code first:
 dotnet ef database update
 
 ```
