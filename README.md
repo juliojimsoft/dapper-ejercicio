@@ -7,7 +7,7 @@ Este es un proyecto de ejemplo usando Dapper, un micro-ORM para .NET.
 ## Requisitos Previos
 
 - SQL Server 2016+
-- .NET 6 o superior
+- .NET 8 o superior
 - Git (para clonación)
 
 ## Funcionalidades
